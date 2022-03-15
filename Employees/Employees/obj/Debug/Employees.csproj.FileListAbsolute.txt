@@ -1,0 +1,11 @@
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\bin\Debug\Employees.exe.config
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\bin\Debug\Employees.exe
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\bin\Debug\Employees.pdb
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\obj\Debug\Employees.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\obj\Debug\Employees.Form1.resources
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\obj\Debug\Employees.exe
+\\main\RDP\33П\ЗлобиновРС\Desktop\Employees\Employees\Employees\obj\Debug\Employees.pdb
